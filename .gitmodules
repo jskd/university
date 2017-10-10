@@ -1,0 +1,6 @@
+[submodule "PooCAvM2"]
+	path = PooCAvM2
+	url = git@github.com:jskd/PooCAvM2.git
+[submodule "CavBDM2"]
+	path = CavBDM2
+	url = git@github.com:jskd/CavBDM2.git
