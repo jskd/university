@@ -4,3 +4,6 @@
 [submodule "CavBDM2"]
 	path = CavBDM2
 	url = git@github.com:jskd/CavBDM2.git
+[submodule "Fouilles"]
+	path = Fouilles
+	url = git@github.com:jskd/Fouilles.git
