@@ -7,3 +7,9 @@
 [submodule "Fouilles"]
 	path = Fouilles
 	url = git@github.com:jskd/Fouilles.git
+[submodule "ProtInt"]
+	path = ProtInt
+	url = git@github.com:jskd/ProtInt.git
+[submodule "ANGM2"]
+	path = ANGM2
+	url = git@github.com:jskd/ANGM2.git
