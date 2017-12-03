@@ -22,3 +22,6 @@
 [submodule "CavBDM2"]
 	path = CavBDM2
 	url = git@github.com:jskd/CavBDM2.git
+[submodule "ScienceEtSystemeSpatiauxM1"]
+	path = ScienceEtSystemeSpatiauxM1
+	url = git@github.com:jskd/ScienceEtSystemeSpatiauxM1.git
