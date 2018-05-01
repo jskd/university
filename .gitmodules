@@ -37,3 +37,6 @@
 [submodule "AdmSysR"]
 	path = AdmSysR
 	url = git@github.com:jskd/AdmSysR.git
+[submodule "ProgComp"]
+	path = ProgComp
+	url = git@github.com:jskd/ProgComp.git
