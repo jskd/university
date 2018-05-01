@@ -25,3 +25,6 @@
 [submodule "ScienceEtSystemeSpatiauxM1"]
 	path = ScienceEtSystemeSpatiauxM1
 	url = git@github.com:jskd/ScienceEtSystemeSpatiauxM1.git
+[submodule "ArchSI"]
+	path = ArchSI
+	url = git@github.com:jskd/ArchSI.git
