@@ -31,3 +31,9 @@
 [submodule "MacOS-X"]
 	path = MacOS-X
 	url = git@github.com:jskd/MacOS-X.git
+[submodule "Mobil"]
+	path = Mobil
+	url = git@github.com:jskd/Mobil.git
+[submodule "AdmSysR"]
+	path = AdmSysR
+	url = git@github.com:jskd/AdmSysR.git
