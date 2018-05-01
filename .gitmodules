@@ -28,3 +28,6 @@
 [submodule "ArchSI"]
 	path = ArchSI
 	url = git@github.com:jskd/ArchSI.git
+[submodule "MacOS-X"]
+	path = MacOS-X
+	url = git@github.com:jskd/MacOS-X.git
