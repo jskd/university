@@ -40,3 +40,6 @@
 [submodule "ProgComp"]
 	path = ProgComp
 	url = git@github.com:jskd/ProgComp.git
+[submodule "gitlab_p7_backup"]
+	path = gitlab_p7_backup
+	url = git@github.com:jskd/gitlab_p7_backup.git
