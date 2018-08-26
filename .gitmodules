@@ -10,9 +10,9 @@
 [submodule "InfoEmb"]
 	path = InfoEmb
 	url = git@github.com:jskd/InfoEmb.git
-[submodule "ANGM2"]
+[submodule "AngM2"]
 	path = AngM2
-	url = git@github.com:jskd/ANGM2.git
+	url = git@github.com:jskd/AngM2.git
 [submodule "Fouilles"]
 	path = Fouilles
 	url = git@github.com:jskd/Fouilles.git
